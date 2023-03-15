@@ -1,0 +1,66 @@
+body{
+    background-color: grey;
+    
+}
+/* h1{
+    background-color: darkslategray;
+    text-align:center;
+}
+
+.para1{
+    text-align: center;
+    margin: 0 auto;
+    padding-top: 50px;
+    width: 40%;
+    height: 20vh;
+    border: 1px solid rgb(61, 5, 61);
+    background-color: cornsilk;
+    color:rgb(176, 162, 9);
+    font-size: 20px;
+    text-overflow: clip; 
+}
+
+.section1>h1{
+    background-color: aliceblue;
+    color:hotpink;
+}
+.section2{
+    background-color: aqua;
+    color: black;
+}
+.para2{
+    background-color: hotpink;
+    color: rgba(89,97,45, 0.7);
+}
+
+.division1{
+    background-color: aqua;
+    color: crimson;
+}
+
+.chlid1{
+    width: 40%;
+    height: 40vh;
+    background-color: yellowgreen;
+}
+.chlid2{
+    height: 100px;
+    width: 40%;
+    background-color: firebrick;
+}
+ */
+  .heading .head1{
+    background-color: aqua;
+    color: brown;
+    text-align: center;
+} 
+ div{
+    background-color: blueviolet;
+    color: burlywood;
+    text-align: center;
+ }
+
+ 
+
+
+ 
