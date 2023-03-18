@@ -1,0 +1,24 @@
+body{
+    background-color: blanchedalmond;
+}
+div{
+    width: 80%;
+    height:60vh;
+    /* background-color: aliceblue; */
+    margin: 0 auto;
+    margin-top: 100px;
+}
+table{
+    text-align: center;
+    height:60vh;
+    width: 100%;
+    border-collapse: collapse;
+   
+}
+tr:nth-child(odd){
+    background-color: blueviolet;
+}
+
+tr:nth-child(even){
+    background-color: aqua;
+}

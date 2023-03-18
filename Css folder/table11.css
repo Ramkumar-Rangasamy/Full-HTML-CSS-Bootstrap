@@ -1,0 +1,23 @@
+body{
+    background-color: rgba(34, 94, 93, 0.5);
+}
+.division{
+    width: 60%;
+    height: 60vh;
+    background-color: aqua;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 150px;
+    border-collapse: collapse;
+}
+
+.trow1{
+    font-weight: bold;
+    font-size: 22px;
+}
+tr:nth-child(odd){
+       border-collapse: separate;
+       background-color: rgb(6, 41, 50);
+       color: aliceblue;
+      
+}

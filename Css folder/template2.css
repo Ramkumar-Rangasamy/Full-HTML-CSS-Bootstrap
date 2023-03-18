@@ -1,0 +1,63 @@
+*{
+    padding:0px;
+    margin: 0px;
+}
+.container1{
+    background-image: url(https://images.hdqwalls.com/download/smoothie-food-8k-3w-1920x1080.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}
+.container2{
+    background-color: rgba(2, 13, 5, 0.7);
+    height: 100vh;
+    width: 100%;
+}
+.container3{
+    text-align: center;
+    color: whitesmoke;
+    padding-top: 200px;
+
+
+}
+.head1{
+    font-family:sans-serif;
+    text-transform: capitalize;
+    font-size: 25px;
+    color:rgb(158, 158, 158);
+
+
+}
+.head2{
+    font-size: 70px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-transform: uppercase;
+    padding-top:50px;
+}
+.para1{
+    padding-top: 50px;
+    margin-left:350px;
+    margin-right: 350px;
+}
+.para2{
+    border:1px solid white;
+    width: 11%;
+    height: 35px;
+    text-align: center;
+    padding-top: 20px;
+    margin-left: 680px;
+    margin-top:60px;
+    border-radius: 10px;
+    text-transform: uppercase;
+    font-size:12px;
+}
+
+
+
+
+
+
+
+
+

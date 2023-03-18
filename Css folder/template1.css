@@ -1,0 +1,49 @@
+body{
+    background-image: url(https://info.daxtra.com/hubfs/SAP%20Tree%20Planting.jpg);
+    background-size:cover;
+    background-repeat:no-repeat;
+    width:98%;
+}
+.head4{
+    color:rgb(227, 215, 215);
+    text-transform:uppercase;
+    word-spacing:4px;
+    letter-spacing:2px;
+    padding-top: 10%;
+    padding-left: 100px;
+}
+.para1{
+    color: white;
+    padding-left:100px;
+    padding-right:50%;
+    font-size:45px;
+    text-align: justify;
+}
+
+.para2{
+    border: 2px solid whitesmoke;
+    border-radius: 5px;
+    width: 10%;
+    height: 30px;
+    text-align: center;
+    margin-left:100px;
+    padding-top:13px;
+    text-transform:uppercase;
+    color: azure;
+    font-size: 14px;
+    float: left;
+}
+.para3{
+    border: 2px solid whitesmoke;
+    border-radius: 5px;
+    width: 10%;
+    height: 30px;
+    text-align: center;
+    margin-left:50px;
+    margin-top:15px ; 
+    padding-top:13px;
+    text-transform:uppercase;
+    color: azure;
+    font-size: 14px;
+    float: left;
+}

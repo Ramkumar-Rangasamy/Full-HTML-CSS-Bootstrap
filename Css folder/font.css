@@ -1,0 +1,63 @@
+
+
+
+
+
+
+
+body{
+    background-color: darkkhaki;
+}
+
+.division{
+    text-align:;
+    height: 50vh;
+    width: 40%;
+    background-color: aqua;
+    /* font-style: italic;
+    font-variant: small-caps;
+    font-weight: 700;
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; */
+     /* font:italic  500 15px verdana; */
+    margin:0 auto;
+    padding: 40px;
+    
+font-family: 'Rampart One', cursive;
+font-family: 'Smokum', cursive;
+font-family: 'Tilt Prism', cursive;
+
+
+}
+
+.head1{
+    color: blue;   
+}
+.head2{
+    text-align: center;
+    text-align-last:center;
+    color: darkkhaki;
+    text-decoration:overline;
+    text-indent:200px;
+    text-transform:uppercase;
+    text-emphasis:triangle green;
+    line-height: 30px;
+    letter-spacing: 10px;
+    word-spacing: 20px;
+    
+     
+
+}
+.head3{
+    /* direction: ltr; */
+    word-wrap:normal;
+    white-space:nowrap;
+    text-shadow:2px 2px 3px rgb(227, 42, 42);
+    font-family: 'Carter One', cursive;
+    
+font-family: 'Rampart One', cursive;
+font-family: 'Smokum', cursive;
+font-family: 'Tilt Prism', cursive;
+
+    
+}

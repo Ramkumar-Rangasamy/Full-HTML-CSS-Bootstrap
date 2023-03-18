@@ -1,0 +1,37 @@
+
+
+
+.head1{
+    text-align: right;
+    color: hotpink;
+    padding-right: 200px;
+    font-size: 50px;
+    margin-bottom: -29px;
+    word-spacing: 30px;
+    text-transform: uppercase;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+h4{
+    text-align: right;
+    padding-right: 170px;
+    text-transform: uppercase;
+    word-spacing:10px;
+    margin-bottom: -1px;
+    color: rgba(91, 52, 246, 0.978);
+}
+.head2{
+    margin-left: 200px;
+    margin-bottom: -10px;
+    
+}
+
+.division1{
+    margin-left:200px;
+}
+.phone{
+    margin-top: 30px;
+}
+.phone2{
+    margin-top:20px;
+    font-size:40px;
+}

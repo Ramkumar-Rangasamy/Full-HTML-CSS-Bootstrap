@@ -1,0 +1,55 @@
+body{
+    background-color: darkslategrey;
+}
+.container{
+      width: 100%;
+      height:40vh;
+      background-image: url(https://c.files.bbci.co.uk/C870/production/_112921315_gettyimages-876284806.jpg);
+
+
+       background-repeat:no-repeat;
+    /* background-repeat:repeat;  */
+    /* background-repeat: repeat-x;  */
+    /* background-repeat: repeat-y;  */
+
+
+    /* background-attachment:fixed; */
+    /* background-attachment: scroll; default */
+
+       background-size: contain;
+    /* background-size:300px 400px ; */
+    /* background-size: 30% 40%; */
+    /* background-size: 20%; */
+    /* background-size: 20px; */
+    /* background-size: auto; */
+
+
+    /* background-position: center; */
+    /* background-position: top; */
+    /* background-position:bottom; */
+    /* background-position: left bottom; */
+    /* background-position: right bottom; */
+    /* background-position: left top; */
+    /* background-position: right top; */
+    /* background-position: 50% 50%;  left right*/
+    /* background-position-x: 400px ; center left  right */
+    /* background-position-y:300px; center top bottom */
+    /* background-position: bottom 40% right 65%; */
+    /* background-position: right 40% bottom 65%; */
+    /* background-position: top 70px left 70px; */
+    /* background-position: left 70px top 90px; */
+    /* background-position: top 70px left 70%; example for  */
+
+
+    /* background-origin: border-box;
+    /* border:20px solid palevioletred; */
+    /* background-origin: padding-box;     default */
+    /* background-origin: content-box;  */
+  
+
+
+}  
+  /* p{
+ height: 100px;   
+font-size: 20px;
+}   */

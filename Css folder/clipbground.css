@@ -1,0 +1,32 @@
+body{
+    background-image: url("https://static.vecteezy.com/system/resources/previews/004/968/002/original/cute-abstract-modern-background-free-vector.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.head1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    /* padding: 100px;  */
+    font-size: 275px;
+    font-weight: 900;
+    background-image: url("https://www.thenewsminute.com/sites/default/files/styles/news_detail/public/Thunivu_Bayviewprojects_110123_1200.jpg?itok=2iM4aIAJ");
+        /* background-repeat: no-repeat;
+        background-size: cover; */
+    border-radius: 20px;
+    background-clip:text;
+    -webkit-background-clip: text;
+     color: transparent;
+}
+
+.head2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    font-size:100px;
+    font-weight: 900;
+    background-image: url("https://images.hindustantimes.com/img/2022/02/18/1600x900/Endgame_1645162087362_1645162116383.jpg");
+    /* background-repeat: no-repeat;
+    background-size: cover; */
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+}

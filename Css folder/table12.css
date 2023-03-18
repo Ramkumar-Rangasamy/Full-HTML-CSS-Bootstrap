@@ -1,0 +1,48 @@
+body{
+    background-color: aquamarine;
+}
+.division{
+    background-color: aliceblue;
+    width: 60%;
+    height: 50vh;
+    text-align: center;
+    margin-left:300px;
+    margin-top: 100px;
+    text-transform: capitalize;
+}
+table{
+    width: 100%;
+    height:50vh;
+   
+}
+thead{
+    height: 50px;
+   
+}
+.color1{
+    background-color: red;
+    padding: 10px;
+}
+.color2{
+    background-color: yellow;
+}
+.color3{
+    background-color: blueviolet;
+}
+
+table,th{
+    
+    border: 1px solid black;
+    border-collapse: separate;
+    text-align: center;
+    padding: 10px;
+}
+
+tr td{
+    border: 1px solid black;
+    border-collapse: separate;
+    padding: 10px;
+}
+
+
+
