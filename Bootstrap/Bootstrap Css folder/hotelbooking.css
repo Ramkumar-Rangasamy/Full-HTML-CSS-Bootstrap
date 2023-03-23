@@ -1,0 +1,15 @@
+.container{
+    background-image: url("https://cdn.wallpapersafari.com/59/6/kZC1VX.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 30%;
+    height: 95vh;
+}
+.box1{
+    background-color: black;
+    opacity: 0.8;
+    border-radius: 20px;
+    width: 80%;
+    height: 200px;
+    color: white;
+}

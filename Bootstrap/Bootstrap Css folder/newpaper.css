@@ -1,0 +1,15 @@
+.hard{
+    background-color: white;
+    border-top-right-radius:25px;
+    border-top-left-radius:25px ;
+    position: absolute;
+     bottom:-330px;
+}
+
+.card-text{
+    font-size: 15px;
+}
+.disk1{
+   
+   width:25rem;
+}

@@ -1,0 +1,31 @@
+*{
+    margin: 0px;
+    padding:0px;
+}
+
+
+ul li:hover{
+    background-color: rgb(44, 176, 242);
+    border-radius: 5px;
+    color: white;
+}
+.icon1{
+    border-radius:50px;
+}
+.jack{
+    border: none;
+    outline: none;
+}
+.food li{
+    width:10px;
+    height:10px;
+     color: white; 
+    border-radius: 50%;
+}
+
+  
+
+
+
+
+

@@ -1,0 +1,13 @@
+
+.car{
+    width:25rem;
+    border: none;
+    outline: none;
+}
+.ram{
+    border-top-right-radius: 20px;
+    border-top-left-radius:20px ;
+    position: absolute;
+    bottom:-270px;
+
+}

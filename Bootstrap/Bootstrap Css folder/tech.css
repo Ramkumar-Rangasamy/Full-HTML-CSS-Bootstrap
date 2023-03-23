@@ -1,0 +1,21 @@
+.card{
+    width: 21rem;
+    height:500px;
+    border: none;
+    outline: none;
+   
+}
+.car{
+   
+}
+h3{
+    color: blueviolet;
+}
+.ram{
+    background-color: white;
+    border-top-left-radius: 20px;
+    border-top-right-radius:20px;
+    position: absolute;
+    bottom: 20px;
+   
+}

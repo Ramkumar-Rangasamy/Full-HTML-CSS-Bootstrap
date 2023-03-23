@@ -1,0 +1,27 @@
+.box1{
+   background-color: rgb(159, 205, 205);
+ height: 110vh; 
+}
+.box2{
+   background-color: white;
+   width: 92%;
+   height:300px;
+   margin-left:50px;
+   margin-top: 30px;
+   border-radius: 30px;
+}
+.images{
+    border-top-left-radius:15px ;
+    border-bottom-left-radius:15px;
+}
+.imaga{
+    border-radius:20px;
+}
+.division1{
+    margin-left:100px;
+    margin-top: 10px;
+}
+.button1{
+    margin-top: 30px;
+    margin-left: 500px;
+}

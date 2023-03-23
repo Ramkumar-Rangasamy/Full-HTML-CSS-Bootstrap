@@ -1,0 +1,79 @@
+*{
+ padding: 0px;
+ margin: 0px;
+}
+body{
+    background-image:url("https://cdn.wallpapersafari.com/73/40/z1uQgs.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.div1{
+    font-size:20px;
+    padding-left:50px;
+    padding-top: 50px;
+    padding-bottom: 20px;
+   
+}
+.icon1{
+    font-size: 60px;
+    color:lightgreen;
+    position: sticky;
+    top: 80px;
+}
+span{
+    font-family: 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-left: 10px;
+    font-size: 20px;
+    text-transform: uppercase;
+    font-weight: 540;
+}
+.para1{
+    letter-spacing:5px;
+    padding-left: 70px;
+    font-size: 13px;
+    text-transform: capitalize;
+    color:darkkhaki;
+}
+.div2{
+    text-align: center;
+    font-size: 30px;
+    line-height:100px;
+}
+.div3{
+    background-image: url("https://images.hdqwalls.com/wallpapers/cat-in-winter-bm.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 40%;
+    height: 400px;
+    border-radius: 20px;
+    position:absolute;
+    left: 500px;
+    top: 200px;
+    z-index: -1;
+}
+.div4{
+    background-image: url("https://wallpapercave.com/wp/wp5186029.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 30%;
+    height: 350px;
+    border-radius: 30px;
+    position:absolute;
+    left:200px;
+    top: 130px;
+    z-index: -1;
+}
+.div5{
+    background-image: url("https://getwallpapers.com/wallpaper/full/5/5/0/545489.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 35%;
+    height:350px;
+    border-radius: 30px;
+    position:absolute;
+    left:900px;
+    top: 350px;
+    z-index: 3;
+}
+
+
