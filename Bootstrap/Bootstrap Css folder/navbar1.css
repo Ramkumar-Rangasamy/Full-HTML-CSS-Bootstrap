@@ -1,0 +1,18 @@
+
+.font{
+    font-size: 20px;
+}
+
+.form{
+    border:3px solid black;
+    border-radius: 5px;
+    width: 50px;
+    height: 50px;
+    padding-left:10px;
+    color: rgb(101, 223, 13);
+}
+.span1{
+    padding-left:20px;
+    font-size: 20px;
+    color: aliceblue;
+}

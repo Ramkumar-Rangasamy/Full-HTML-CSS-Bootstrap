@@ -1,0 +1,93 @@
+.div1{
+   background-image:url("https://wallpaperaccess.com/full/2633581.jpg");
+   background-repeat: no-repeat;
+   height:100vh;
+   width:100%;
+   color: aliceblue;
+   text-align: center;
+   padding-top: 100px;
+}
+
+button{
+    height: 50px;
+    width: 150px;
+    border: none;
+    border-radius:10px;
+    background-color: darkgrey;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+@media screen and (max-width:500px) {
+     .div1{
+        background-image: url("https://www.pixelstalk.net/wp-content/uploads/2016/06/HD-High-Tech-Wallpaper.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+     }
+
+     h1{
+        background-color: beige;
+        color:violet;
+        margin-left: 20px;
+        margin-right: 20px;
+        border-radius:20px;
+     }
+
+    p{
+        background-color: beige;
+        color:black;
+        margin-left: 20px;
+        margin-right: 20px;
+        border-radius:20px;
+        padding: 40px;
+    } 
+    button{
+        height: 50px;
+        width: 150px;
+        border: none;
+        border-radius:10px;
+        background-color:hotpink;
+        font-size: 15px;
+        font-weight: bold;
+    }
+
+}
+
+
+@media screen and (min-width:600px) and (max-width:1000px) {
+    .div1{
+       background-image: url("https://wallup.net/wp-content/uploads/2017/11/23/498335-motherboards-tech-748x421.jpg");
+       background-repeat: no-repeat;
+       background-size: cover;
+    }
+
+    h1{
+       background-color: beige;
+       color:firebrick;
+       margin-left: 20px;
+       margin-right: 20px;
+       border-radius:20px;
+    }
+
+   p{
+       background-color: beige;
+       color:black;
+       margin-left: 20px;
+       margin-right: 20px;
+       border-radius:20px;
+       padding: 40px;
+   } 
+
+   button{
+    height: 50px;
+    width: 150px;
+    border: none;
+    border-radius:10px;
+    background-color:slateblue;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+}
+
+

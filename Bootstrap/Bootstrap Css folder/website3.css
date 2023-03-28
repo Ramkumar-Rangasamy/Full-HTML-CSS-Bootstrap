@@ -1,0 +1,27 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+
+.division1{
+    background-image: url("https://wallpapershome.com/images/pages/ico_h/24117.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width:100%;
+}
+.hight1{
+    height:400px;
+}
+
+.carousel-indicators li{
+    height: 10px;
+    width:10  px;
+    border-radius:50%;    
+}
+
+/* .slide1{
+    height: 300px;
+} */
